@@ -1,0 +1,49 @@
+div{
+    text-align: center;
+    display: block;
+}
+
+
+
+h1{
+    font-family: Impact;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+
+p{
+    font-size: 35px;
+    display: block;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-inline-start: 0rem;
+    margin-inline-end: 0rem;
+    text-align: center;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+   margin-left: 630px;
+   margin-top: 20px;
+}
+button:hover{
+    background-color: green;
+}
+
+#quote{
+
+    margin-top: 20px;
+    font-size: 35px;
+    display: block;
+}
